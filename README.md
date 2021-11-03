@@ -14,9 +14,12 @@ The technologies used for this project are:
 - [JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ## 🤝 Contributors
+These are the project collaborators:
 
-Jehan Kheller
-Lucas Beserra
+- Jehan Kheller
+[GitHub](https://github.com/JehanKheller)
+- Lucas Beserra
+[GitHub](https://github.com/Lucas-beserra)
 
 ## ⚠️ License
 This project has an MIT License.
