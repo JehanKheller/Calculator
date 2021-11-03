@@ -16,10 +16,8 @@ The technologies used for this project are:
 ## 🤝 Contributors
 These are the project collaborators:
 
-- Jehan Kheller<br/>
-[GitHub](https://github.com/JehanKheller)
-- Lucas Beserra<br/>
-[GitHub](https://github.com/Lucas-beserra)
+- [Jehan Kheller](https://github.com/JehanKheller)
+- [Lucas Beserra](https://github.com/Lucas-beserra)
 
 ## ⚠️ License
 This project has an MIT License.
