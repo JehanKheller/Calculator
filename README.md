@@ -3,7 +3,7 @@
 ## 💻 Project
 This is a project of a calculator with simple functions and was inspired by Gustavo Neitzke's project.
 
-If you want to check out the project that inspired us, follow the video link on YouTube: https://www.youtube.com/watch?v=42TShjXR0m0.
+If you want to check out the project that inspired us, follow the video link on YouTube: https://www.youtube.com/watch?v=42TShjXR0m0.<br/>
 Link do repositório no GitHub: https://github.com/Gutoneitzke/calculadora
 
 ## 📝 Technologies
@@ -16,9 +16,9 @@ The technologies used for this project are:
 ## 🤝 Contributors
 These are the project collaborators:
 
-- Jehan Kheller
+- Jehan Kheller<br/>
 [GitHub](https://github.com/JehanKheller)
-- Lucas Beserra
+- Lucas Beserra<br/>
 [GitHub](https://github.com/Lucas-beserra)
 
 ## ⚠️ License
