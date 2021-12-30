@@ -1,4 +1,5 @@
 # Calculator
+A simple design of a calculator with basic functions.
 
 ## 💻 Project
 This is a project of a calculator with simple functions and was inspired by Gustavo Neitzke's project.
