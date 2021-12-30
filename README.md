@@ -7,7 +7,7 @@ If you want to check out the project that inspired us, follow the video link on 
 Link do repositório no GitHub: https://github.com/Gutoneitzke/calculadora
 
 ## 🌐 Webpage
-To check the webpage, [click here!](https://jehankheller.github.io/HairSync/) 👈
+To check the webpage, [click here!](https://jehankheller.github.io/Calculator/) 👈
 
 ## 📝 Technologies
 The technologies used for this project are:
