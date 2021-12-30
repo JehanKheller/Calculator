@@ -6,6 +6,9 @@ This is a project of a calculator with simple functions and was inspired by Gust
 If you want to check out the project that inspired us, follow the video link on YouTube: https://www.youtube.com/watch?v=42TShjXR0m0.<br/>
 Link do repositório no GitHub: https://github.com/Gutoneitzke/calculadora
 
+## 🌐 Webpage
+To check the webpage, [click here!](https://jehankheller.github.io/HairSync/) 👈
+
 ## 📝 Technologies
 The technologies used for this project are:
 
